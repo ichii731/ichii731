@@ -1,4 +1,5 @@
-# [My WebSite&Blog](https://0115765.com/)
+# [My Profile+Portfolio](https://tomox0115.github.io/)
+# [Website/Blog](https://0115765.com/)
 An anime, game, PC, and programming related blog 「オタク学生の『日常』」 is in operation.
 # Developed Services
 - **[Make AnimeFace](https://ai.0115765.com/makeface/)** ：A service that generates high-resolution character images with AI

@@ -1,4 +1,4 @@
-# [My Profile+Portfolio](https://tomox0115.github.io/)
+# [Profile+Portfolio](https://tomox0115.github.io/)
 # [Website/Blog](https://0115765.com/)
 An anime, game, PC, and programming related blog 「オタク学生の『日常』」 is in operation.
 # Developed Services

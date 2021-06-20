@@ -6,5 +6,5 @@ An anime, game, PC, and programming related blog 「オタク学生の『日常�
 - **[@randomhikakin](https://twitter.com/randomhikakin)** ：Providing some good Hikakin images from HikakinTV.[System code repo](https://github.com/tomox0115/randomhikakin)
 - **[@SYM_HIKA_SEI(ヒカキンシンメトリーbot)](https://twitter.com/SYM_HIKA_SEI)** ：Fully automatic creation of symmetry of images of HIKAKIN and SEIKIN and posting on Twitter..
 
-# [Qiita](https://qiita.com/tomox0115/)
+# [Qiita](https://qiita.com/tomox0115/) & [DEV](https://dev.to/tomox0115/)
 I'm writing Qiita on Technical relations.

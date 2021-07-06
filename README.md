@@ -1,6 +1,15 @@
+# About me
+Hello.
+Name: "市井P"(@ichii731)
+Age: 18
+Belongs:Meiji University IMS/FMS B1
+(明治大学総合数理学部先端メディアサイエンス学科 / Meiji University School of interdisciplinary Mathematical Science Department of Advanced Media Science)
+
+
 # [Profile+Portfolio](https://tomox0115.github.io/)
 My profile page hosted and operated on GitHub Pages.
 I also post a list of operating businesses and developed services.
+運営している事業や開発したシステムなどの一覧を掲載しております.
 # [Website/Blog](https://0115765.com/)
 An anime, game, PC, and programming related blog 「オタク総研 with IT」 is in operation.
 # Developed Services

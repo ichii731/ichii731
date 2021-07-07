@@ -1,8 +1,10 @@
 # About me
 
-Name: "市井P"(@ichii731)
+Name: 市井P(@ichii731)
 
-Belongs:明治大学総合数理学部先端メディアサイエンス学科1年 / Meiji University School of interdisciplinary Mathematical Science Department of Frontier Media Science B1
+Title: University Student / Developer / Webmaster / Writer
+
+Belongs: 明治大学総合数理学部先端メディアサイエンス学科1年 / Meiji University School of interdisciplinary Mathematical Science Department of Frontier Media Science B1
 
 
 # [Profile+Portfolio](https://tomox0115.github.io/)

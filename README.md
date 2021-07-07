@@ -1,6 +1,7 @@
 # About me
-Hello.
+
 Name: "市井P"(@ichii731)
+
 Belongs:明治大学総合数理学部先端メディアサイエンス学科1年 / Meiji University School of interdisciplinary Mathematical Science Department of Frontier Media Science B1
 
 

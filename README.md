@@ -8,7 +8,8 @@ Belongs: 明治大学総合数理学部先端メディアサイエンス学科1�
 
 
 # [Profile+Portfolio](https://ichii731.net/)
-https://ichii731.net
+**https://ichii731.net**
+
 My profile page hosted and operated on GitHub Pages.
 I also post a list of operating businesses and developed services.
 

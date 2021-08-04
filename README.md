@@ -17,7 +17,8 @@ I also post a list of operating businesses and developed services.
 # [Website/Blog](https://0115765.com/)
 An anime, game, PC, and programming related blog 「オタク総研 with IT」 is in operation.
 # Developed Services
-- **[Make AnimeFace](https://ai.0115765.com/makeface/)** ：A service that generates high-resolution character images with AI
+- ~~**[Make AnimeFace](https://ai.0115765.com/makeface/)** ：A service that generates high-resolution character images with AI~~
+→AniAutoとして再開予定…
 - **[@randomhikakin](https://twitter.com/randomhikakin)** ：Providing some good Hikakin images from HikakinTV.[System code repo](https://github.com/ichii731/randomhikakin)
 - **[@SYM_HIKA_SEI(ヒカキンシンメトリーbot)](https://twitter.com/SYM_HIKA_SEI)** ：Fully automatic creation of symmetry of images of HIKAKIN and SEIKIN and posting on Twitter..
 # [Qiita](https://qiita.com/ichii731/) & [DEV](https://dev.to/ichii731/)

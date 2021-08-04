@@ -7,8 +7,8 @@ Title: University Student / Developer / Webmaster / Writer
 Belongs: 明治大学総合数理学部先端メディアサイエンス学科1年 / Meiji University School of interdisciplinary Mathematical Science Department of Frontier Media Science B1
 
 
-# [Profile+Portfolio](https://ichii731.net/)
-**https://ichii731.net**
+# [Profile+Portfolio](https://ic731.net/)
+**https://ic731.net**
 
 My profile page hosted and operated on GitHub Pages.
 I also post a list of operating businesses and developed services.
@@ -26,6 +26,6 @@ I'm writing Qiita on Technical relations.
 For system development inquiries, please contact it0731@outlook.jp directly.
 
 
-システム開発関係のお問い合わせはhttps://ichii731.net/contact まで直接ご連絡ください。
+※システム開発関係のお問い合わせはhttps://ic731.net/contact まで直接ご連絡ください.
 
 ※広告掲載等のお問い合わせは[https://0115765.com/contact](https://0115765.com/contact)までお願い致します.

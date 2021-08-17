@@ -1,5 +1,5 @@
 ## About me
-Name: [市井P(@ichii731)](https://twitter.com/ichii731)
+Name: 市井P(@ichii731)
 
 Title: University Student(B1) / Developer / Webmaster / Writer
 
@@ -16,6 +16,7 @@ I also post a list of operating businesses and developed services.
 →[AniAuto](https://aniauto.ic731.net)として再開予定…
 - **[@randomhikakin](https://twitter.com/randomhikakin)** ：Providing some good Hikakin images from HikakinTV.[Source Code Repo](https://github.com/ichii731/randomhikakin)
 - **[@SYM_HIKA_SEI(ヒカキンシンメトリーbot)](https://twitter.com/SYM_HIKA_SEI)** ：Fully automatic creation of symmetry of images of HIKAKIN and SEIKIN and posting on Twitter..
+- **[MeijiFMS-XR](https://fms-xr.pages.dev)** ：A web app that allows you to see FMS optical illusion ads in VR. Hosted on CloudFlare Pages. [Project Repo](https://github.com/ichii731/MeijiFMS-XR)
 
 ## [Website/Blog](https://0115765.com/)
 An anime, game, PC, and programming related blog 「オタク総研 with IT」 is in operation.

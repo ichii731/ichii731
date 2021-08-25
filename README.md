@@ -1,10 +1,4 @@
-## About me
-Name: 市井P(@ichii731)
-
-Title: University Student(B1) / Developer / Webmaster / Writer
-
-Belongs: 明治大学総合数理学部先端メディアサイエンス学科1年 / Meiji University School of interdisciplinary Mathematical Science Department of Frontier Media Science B1
-
+何でもやる系何でもオタク。
 ## [Profile+Portfolio](https://ic731.net/)
 **https://ic731.net**
 

@@ -1,4 +1,5 @@
 何でもやる系何でもオタク。
+![ゆるゆり](https://raw.githubusercontent.com/ichii731/ichii731/main/ゆるゆり.png)
 ## [Profile+Portfolio](https://ic731.net/)
 **https://ic731.net**
 

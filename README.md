@@ -2,9 +2,6 @@
 
 **https://ic731.net**
 
-My profile page hosted and operated on GitHub Pages.
-I also post a list of operating businesses and developed services.
-
 ## Developed APPs/Projects
 
 ### Web Apps
@@ -15,7 +12,7 @@ I also post a list of operating businesses and developed services.
 
 ### Native Apps
 
-Preparing
+- [NewFileShortcut for Windows](https://tools.ic731.net/NewFileShortcut/#/)
 
 ### Twitter Apps
 

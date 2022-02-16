@@ -4,15 +4,10 @@
 
 ## Developed APPs/Projects
 
-### Web Apps
-
-- **[Make AnimeFace](https://ai.0115765.com/makeface/)** ：A service that generates high-resolution character images with AI.
-  Service unavailable.
-- **Meiji-FMS XR** ：FMS optical illusion ads in VR. Hosted on CloudFlare Pages.
-
 ### Native Apps
 
-- [NewFileShortcut for Windows](https://tools.ic731.net/NewFileShortcut/#/)
+- [NewFileShortcut for Windows (v1.1) ](https://tools.ic731.net/NewFileShortcut/#/)
+- [Streaming-DL Helper (v1.0) ](https://tools.ic731.net/stream_dl/)
 
 ### Twitter Apps
 
@@ -23,6 +18,13 @@
 - **[@SYM_HIKA_SEI](https://twitter.com/SYM_HIKA_SEI)** ：Fully automatic creation of symmetry of images of HIKAKIN and SEIKIN and posting on Twitter.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ichii731&repo=symmetry_bot)](https://github.com/ichii731/symmetry_bot)
+
+### Web Apps
+
+- **TwiLoader**
+- **[Make AnimeFace](https://ai.0115765.com/makeface/)** ：A service that generates high-resolution character images with AI.
+  Service unavailable.
+- **Meiji-FMS XR** ：FMS optical illusion ads in VR. Hosted on CloudFlare Pages.
 
 ## Dev Posts/Notes
 

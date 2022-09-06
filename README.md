@@ -1,6 +1,7 @@
-## [Profile+Portfolio](https://ic731.net/)
-
-**https://ic731.net**
+- President, SubCulture Press LLC
+- Head of Media "GEEK LAB"
+- Web Developer (PHPer)
+- University Student B2 at Meiji Univ.
 
 ## Developed APPs/Projects
 

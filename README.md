@@ -4,7 +4,7 @@
 - University Student B2 at Meiji Univ.
 
 ## Developed APPs/Projects
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ichii731&layout=compact)](https://github.com/ichii731)
 ### Native Apps
 
 - [NewFileShortcut for Windows (v1.1) ](https://tools.ic731.net/NewFileShortcut/#/)
